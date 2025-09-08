@@ -1,0 +1,7 @@
+{
+  "name": "Fishing Catch Identifier",
+  "description": "Upload a photo of your fish catch, and our AI will identify the species, provide details, and let you log your catch to a personal fishing journal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
